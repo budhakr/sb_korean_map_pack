@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "0.3.1",
+      "game_version": ">=1.0.0",
+      "date": "2026-09-12",
+      "changelog": "Ocean rendering fixed for coastal maps, low-rise buildings restored, and the map package is now smaller and loads faster.",
+      "download": "https://github.com/budhakr/sb_korean_map_pack/releases/download/v0.3.1/SEL.zip",
+      "sha256": "abf638001d4c451fd570e6e53f2702f85194a8150d3ed45af6879c0e35793653"
+    },
+    {
+      "version": "0.2.0",
+      "game_version": ">=1.3.0",
+      "date": "2026-04-23",
+      "changelog": "Realistic demand data using official Korean government data (KOTI, MOLIT, MODS, MOIS).",
+      "download": "https://github.com/kimth9/sb_korean_map_pack/releases/download/v0.2.0/SEL4.zip",
+      "sha256": "3936e32fbe8cf7a8168bc527962f7b5710365af5bb78c5f68f4b5ad5595f6835"
+    },
+    {
+      "version": "0.1.1",
+      "game_version": ">=1.3.0",
+      "date": "2026-04-14",
+      "changelog": "Realistic demand data using official Korean government data (KOTI, MOLIT, MODS, MOIS).",
+      "download": "https://github.com/kimth9/sb_korean_map_pack/releases/download/v0.1.1/SEL4.zip",
+      "sha256": "afc8da06bb6aae1e1f6b6c9ce1d078a3d552a69f98bbd694da2518ae67091c39"
+    },
+    {
+      "version": "0.1.0",
+      "game_version": ">=1.3.0",
+      "date": "2026-04-12",
+      "changelog": "Realistic demand data using official Korean government data (KOTI, MOLIT, MODS, MOIS).",
+      "download": "https://github.com/kimth9/sb_korean_map_pack/releases/download/v0.1.0/SEL4.zip",
+      "sha256": "32ce76f8602500ef6c5936bfd77163074f7ac4167675c2f6297edf51334e84f3"
+    }
+  ]
+}

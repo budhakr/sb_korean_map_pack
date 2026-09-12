@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "0.3.1",
+      "game_version": ">=1.0.0",
+      "date": "2026-09-12",
+      "changelog": "Ocean rendering fixed for coastal maps, low-rise buildings restored, and the map package is now smaller and loads faster.",
+      "download": "https://github.com/budhakr/sb_korean_map_pack/releases/download/v0.3.1/KAG.zip",
+      "sha256": "6a4e90687a34fa7e25dd9fc7462b7df1c726d4149e047ffa59665674abb867ad"
+    }
+  ]
+}
