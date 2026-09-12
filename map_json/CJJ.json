@@ -7,7 +7,7 @@
       "date": "2026-09-12",
       "changelog": "Ocean rendering fixed for coastal maps, low-rise buildings restored, and the map package is now smaller and loads faster.",
       "download": "https://github.com/budhakr/sb_korean_map_pack/releases/download/v0.3.1/CJJ.zip",
-      "sha256": "3a144510a11dffd528f5fd5226895e8f89021ef34ea52471c72a6b507610fa0d"
+      "sha256": "26bacbcf7cddae64bd7e592459df8cccbb71ea220aab3d3312bd15a7df26c657"
     }
   ]
 }
