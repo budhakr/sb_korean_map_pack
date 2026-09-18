@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "0.4.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-09-19",
+      "changelog": "Travel demand regenerated from 2024 KTDB baseline data. Added school, park, shopping center, tourist attraction, and ferry demand. Place labels now show consistent English romanization, and a resident-count mismatch was fixed.",
+      "download": "https://github.com/budhakr/sb_korean_map_pack/releases/download/v0.4.0/KAG.zip",
+      "sha256": "270c82edbea0e5b6e4969b1d27601b6f9afc996363f7a9d4429d2770e9151f9a"
+    },
+    {
       "version": "0.3.1",
       "game_version": ">=1.0.0",
       "date": "2026-09-12",
