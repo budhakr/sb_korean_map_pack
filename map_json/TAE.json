@@ -15,7 +15,7 @@
       "date": "2026-09-12",
       "changelog": "Ocean rendering fixed for coastal maps, low-rise buildings restored, and the map package is now smaller and loads faster.",
       "download": "https://github.com/budhakr/sb_korean_map_pack/releases/download/v0.3.1/TAE.zip",
-      "sha256": "adeb91c155cea419c237f3806ee68febd08500c5ec606ee247b06cd852aeca27"
+      "sha256": "50140e23ae12be28b4f579b05378faafcadbf43b0fd0b19f451c12a1875c487b"
     },
     {
       "version": "0.2.0",
